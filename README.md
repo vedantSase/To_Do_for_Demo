@@ -1,2 +1,1 @@
-# To_Do_for_Demo
-React Practice 
+This is a practice file for react apps.
