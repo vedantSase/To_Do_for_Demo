@@ -14,3 +14,9 @@ A simple To Do List application built with React. This app allows users to add t
 - `AddToDo`: Form for adding new tasks.
 - `ToDoItems`: Shows the list of current tasks and allows deletion.
 - `NoTask`: Shown when there are no tasks in the list.
+
+## How It Works
+
+- The app uses React's `useState` to manage the list of tasks.
+- Adding a task appends it to the current list.
+- Deleting a task removes it from the list by filtering out the selected task.
